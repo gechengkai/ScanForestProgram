@@ -1,0 +1,49 @@
+
+/********************************************QToolBox 样式设置**************************************************/
+QToolBox
+{
+    background-color:rgb(8, 32, 50);
+    border-radius:3px;
+}
+
+QToolBox::tab
+{
+    color:gray;
+    background-color:rgb(51, 71, 86);
+    border:1px;
+    border-radius:5px;
+    font-size:17px;
+    font-family:"Microsoft YaHei";
+}
+
+QToolBox::tab:selected
+{
+    color:rgb(191,196,199);
+    background-color:rgb(44, 57, 75);
+    font-family:"Microsoft YaHei";
+    font-weight:bold;
+    font-size:20px;
+}
+
+/********************************************QGroupBox 样式设置**************************************************/
+QGroupBox
+{
+    background-color:rgba(143,153,159,0.5);
+    color:white;
+} 
+
+/********************************************QPushButton 样式设置**************************************************/
+QPushButton
+{
+    background-color:rgb(230,230,230);
+    border-radius:3px;
+    color:rgb(98,98,98);
+    font-family: "Microsoft YaHei";
+    font-weight:bold;
+    font-size:20px;
+}
+
+
+
+
+
