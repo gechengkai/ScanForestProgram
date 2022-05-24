@@ -3,3 +3,15 @@
 /detectDir
 best.pt
 /dist
+/utils/__pycache__
+/UI/weihai/shaungdaowan/__pycache__
+/UI/yantai/muping/__pycache__
+/UI/taian/guoyuefu/__pycache__
+/UI/taian/luohanya/__pycache__
+/UI/taian/taohuayu/__pycache__
+/UI/taian/tianwaicun/__pycache__
+/models/__pycache__
+/utils/__pycache__
+/guoyuefu.log
+/muping.log
+/shuangdaowan.log

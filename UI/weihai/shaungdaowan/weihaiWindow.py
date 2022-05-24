@@ -28,7 +28,7 @@ class WeihaiWindow(QWidget):
         #云台扫描范围
         self.setRangeOfCamera()
         self.mkdir(self.savePath)
-        self.updateDisplyStartUploadSlot(100)
+        # self.updateDisplyStartUploadSlot(100)
         self.scan_prgBar.setValue(10)
         # self.test_detecting()
         # self.test_repeat()
